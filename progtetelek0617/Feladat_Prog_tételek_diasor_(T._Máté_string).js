@@ -1,0 +1,3 @@
+const palindom = (str) => {
+    if () 
+}
